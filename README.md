@@ -1,5 +1,7 @@
 Hello and Welcome! 👋
-I’m Shehbaz Hussain, a skilled Android developer from the beautiful region of Gilgit-Baltistan, Pakistan. I specialize in creating mobile apps that are fast, user-friendly, and reliable.
+
+I’m Shehbaz Hussain, a skilled Android developer from the beautiful region of Gilgit-Baltistan, Pakistan.
+I specialize in creating mobile apps that are fast, user-friendly, and reliable.
 
 🔭 What I’m working on:
 
